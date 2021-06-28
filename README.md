@@ -29,7 +29,6 @@ Repositório contendo algumas dicas de segurança em PHP e referências
   - Utilize um salt específico para aquela senha (pode usar o id, email, data de registro, etc)
   - Criptografe o hash gerado para garantir que você possa recriptografar todas as senhas caso haja vazamento do banco de dados
   - Se possível use a biblioteca libsodium
-
 11. Utilize técnicas de defesa em camada
 
     
