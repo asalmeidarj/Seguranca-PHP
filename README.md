@@ -1,4 +1,4 @@
-# Seguranca-PHP
+# Segurança-PHP
 Repositório contendo algumas dicas de segurança em PHP e referências
 
 # DICAS:
